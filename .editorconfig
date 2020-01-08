@@ -1,0 +1,9 @@
+# Description of all (?) Code Analysis codes at 
+# https://docs.microsoft.com/en-us/visualstudio/code-quality/?view=vs-2019
+
+[*.cs]
+dotnet_diagnostic.CA1801.severity = none
+dotnet_diagnostic.CA1303.severity = none
+dotnet_diagnostic.CA1822.severity = none
+dotnet_diagnostic.CA1707.severity = none
+dotnet_diagnostic.IDE0060.severity = none

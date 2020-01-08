@@ -1,0 +1,6 @@
+.idea
+.vs
+.vscode
+[Bb]in/
+[Oo]bj/
+*.csproj.user
